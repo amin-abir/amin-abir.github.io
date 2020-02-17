@@ -979,7 +979,7 @@ header .only-logo .navbar .navbar-header {
 }
 
 .hey-right p{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size:23px;
   color:#203b4c;
   font-weight: 400;
@@ -1199,9 +1199,9 @@ header .only-logo .navbar .navbar-header {
     color: #2c2c2c;
 }
 .agency-2-item .desc {
-    font-family: "Source Sans Pro",sans-serif;
+    font-family: "Montserrat",sans-serif;
     font-weight: 300;
-    font-size: 16px;
+    font-size: 15px;
     color: #41454a;
     padding-bottom: 15px;
     padding-right: 30px;
@@ -1607,6 +1607,8 @@ header .only-logo .navbar .navbar-header {
   padding-bottom: 15px;
   padding-right: 40px;
   text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
 }
 .about-us .col-md-6{
   padding: 0px 30px;
@@ -1639,6 +1641,11 @@ header .only-logo .navbar .navbar-header {
   font-size: 17px;
   font-weight: 400;
   color: #000;
+}
+
+.link-style{
+  font-style: italic;
+  color: #11537c
 }
 
 
